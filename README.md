@@ -13,4 +13,4 @@ After a while he will tell you the cards!
 
 0.0.2= select your own arena and an auto updater
 
-0.0.3= ( soon ) new= faster report for all arenas (a lot faster for arena 1) and an english version
+0.0.3= RELEASED-22-6-2016 new= faster report for all arenas (a lot faster for arena 1) and an english version
